@@ -31,6 +31,7 @@
 
 /* Debounce reduces chatter (unintended double-presses) - set 0 if debouncing is not needed */
 #define DEBOUNCE 3
+#define FORCE_NKRO
 
 /* disable these deprecated features by default */
 #define NO_ACTION_MACRO
